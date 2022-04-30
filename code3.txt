@@ -1,4 +1,7 @@
 This is code3 file
+<<<<<<< HEAD
 
 
-Updat from local repo
+=======
+Updat efrom git remote repo
+>>>>>>> 9e7409a47a11f0d701e7c15a14841467c53afe58
